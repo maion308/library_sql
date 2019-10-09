@@ -51,7 +51,7 @@ INSERT INTO books(title, publication_date, author_id) VALUES ('Learn POSTGRESQL 
 
 UPDATE books
 SET title = 'SQL afterall!'
-WHERE author_id = 9;
+WHERE title = 'To SQL or NOSQL?';
 
 SELECT title, name FROM books WHERE author_id = 9;
 
