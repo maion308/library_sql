@@ -1,4 +1,5 @@
 -- ADVANCED / JOIN QUERIES
+-- Please copy and paste your queries into this file.
 -- For all of these queries, you SHOULD NOT use an id # in a WHERE clause
 
 -- Find all fields (book and author related) for all books written by George R.R. Martin.
