@@ -1,11 +1,11 @@
 -- BASIC QUERIES
--- Unless otherwise stated, all queries should return all columns
+-- Unless otherwise stated, all queries should return all columns. Please copy and paste your queries into this file.
 
 -- Get all information about all authors
 
 -- Get just the name and birth year of all authors
 
--- Get all authors born in the 20th centruy or later
+-- Get all authors born in the 20th century or later
 
 -- Get all authors born in the USA
 
