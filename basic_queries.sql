@@ -5,10 +5,16 @@
 SELECT * FROM authors;
 
 -- Get just the name and birth year of all authors
+Select name, birth_year From authors;
 
 -- Get all authors born in the 20th century or later
+SELECT * FROM authors 
+WHERE birth_year > 1899 
+AND birth_year < 2000;
 
 -- Get all authors born in the USA
+SELECT * FROM authors
+WHERE nationality = 'United States of America';
 
 -- Get all books published on 1985
 
