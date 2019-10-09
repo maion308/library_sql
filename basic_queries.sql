@@ -2,6 +2,7 @@
 -- Unless otherwise stated, all queries should return all columns. Please copy and paste your queries into this file.
 
 -- Get all information about all authors
+SELECT * FROM authors;
 
 -- Get just the name and birth year of all authors
 
