@@ -2,7 +2,7 @@
 
 ## Get Started
 
-Clone down this repo and open its contents in Atom. Then read through and follow the steps below.
+Clone down this repo and open its contents in your editor. Then read through and follow the steps below.
 
 ## Creating Our Database
 
@@ -12,7 +12,7 @@ $ createdb library
 
 Note that this is a command-line utility that ships with Postgres, as an alternate to using the SQL command `CREATE DATABASE library;` inside `psql`.
 
-That means you should run this command from your Bash prompt -- not from inside `psql`.
+That means you should run this command from your terminal -- not from inside `psql`.
 
 
 ## Inspecting The Schema
@@ -33,7 +33,7 @@ Load the schema into your database from the command line...
 ```bash
 $ psql -d library < schema.sql
 ```
-> This command is also run from your Bash prompt -- not inside `psql`
+> This command is also run from your terminal -- not inside `psql`
 
 ## Loading A Seed File
 
